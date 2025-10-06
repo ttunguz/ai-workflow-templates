@@ -53,7 +53,8 @@ Original architect reviews implementer's work for spec adherence, test quality, 
 
 ## Credits
 
-Methodology by [Jesse Vincent](https://massivelyparallelprocrastination.com/2025/10/05/how-im-using-coding-agents-in-september-2025/) (original blog post)
+
+Methodology by [Jesse Vincent](https://blog.fsck.com/2025/10/05/how-im-using-coding-agents-in-september-2025/) (original blog post)
 Popularized by [Simon Willison](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/)
 Documented & tested by Tomasz Tunguz
 
